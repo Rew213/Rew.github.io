@@ -1,0 +1,1 @@
+LVM-1|10.0.2.14|Ubuntu|Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz|2|4|8|-|70|80|90|44.00
